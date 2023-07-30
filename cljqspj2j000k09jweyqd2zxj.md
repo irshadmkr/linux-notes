@@ -11,15 +11,16 @@ tags: microsoft-azure-certification, azureprojects, azure-day-to-day
 
 ---
 
-### **What is Microsoft Azure?**
+1. ### **What is Microsoft Azure?**
+    
 
 [Azure is a cloud computing platform](https://www.simplilearn.com/azure-cloud-services-and-its-importance-article?source=frs_author_page) and an online portal that allows you to access and manage cloud services and resources provided by Microsoft.
 
-### **What are the Various Azure Services and How Does Azure Work?**
+### **1.1 What are the Various Azure Services and How Does Azure Work?**
 
 Azure provides more than 200 services, which are divided into 18 categories. These categories include computing, networking, storage, [IoT](https://www.simplilearn.com/what-is-iot-how-and-why-it-matters-article), migration, mobile, analytics, containers, [artificial intelligence](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-artificial-intelligence), and other machine learning, integration, management tools, developer tools, security, databases, [DevOps,](https://www.simplilearn.com/tutorials/devops-tutorial/what-is-devops) media identity, and web services.
 
-### **Compute Services**
+### **1.2 Compute Services**
 
 * #### **Virtual Machine**
     
@@ -37,7 +38,7 @@ Azure provides more than 200 services, which are divided into 18 categories. The
     
     With functions, you can create applications in any programming language. The best part about this service is that you need not worry about hardware requirements while developing applications because Azure takes care of that. All you need to do is provide the code.
     
-* ### **Networking**
+* ### **1.3 Networking**
     
     * #### **Azure CDN**
         
@@ -56,7 +57,7 @@ Azure provides more than 200 services, which are divided into 18 categories. The
         This service allows you to host your DNS domains or system domains on Azure.
         
     
-    ### **Storage**
+    ### **1.4 Storage**
     
     * #### **Disk Storage**
         
@@ -75,7 +76,7 @@ Azure provides more than 200 services, which are divided into 18 categories. The
         With queue storage, you can provide stable message queuing for a large workload. This service can be accessed from anywhere in the world.
         
     
-    ### **Azure Key Concepts**
+    ### **1.5 Azure Key Concepts**
     
     <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>Concept Name</strong></p></td><td colspan="1" rowspan="1"><p><strong>Description</strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Regions</strong></p></td><td colspan="1" rowspan="1"><p><br>Azure is a global cloud platform that is available across various regions around the world. When you request a service, application, or VM in Azure, you are first asked to specify a region. The selected region represents the data centre where your application runs.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Datacenter</strong></p></td><td colspan="1" rowspan="1"><p><br>In Azure, you can deploy your applications into a variety of data centers around the globe. So, it is advisable to select a region which is closer to most of your customers. It helps you to reduce latency in network requests.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Azure Portal</strong></p></td><td colspan="1" rowspan="1"><p>The Azure portal is a web-based application that can be used to create, manage and remove Azure resources and services. It is located at <a target="_blank" rel="noopener noreferrer nofollow" href="https://portal.azure.com" style="pointer-events: none"><strong>https://portal.azure.com</strong></a>.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Resource</strong></p></td><td colspan="1" rowspan="1"><p>Resource in Azure is a virtual machine, role, or instance type that can be used for computing, storage, or networking.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Resource group</strong></p></td><td colspan="1" rowspan="1"><p>A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution or only those resources that you want to manage as a group.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Resource Manager templates</strong></p></td><td colspan="1" rowspan="1"><p>It is a JSON that defines one or more resources to deploy to a resource group. It also establishes dependencies between deployed resources.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>&nbsp;Automation</strong></p></td><td colspan="1" rowspan="1"><p>Azure allows you to automate the process of creating, managing and deleting resources by using PowerShell or the Azure command-line Interface(CLI).</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Azure PowerShell</strong></p></td><td colspan="1" rowspan="1"><p>PowerShell is a set of modules that offer cmdlets to manage Azure. In most cases, you are allowed to use, the cmdlets command for the same tasks which you are performing in the Azure portal.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Azure command-line interface(CLI)</strong></p></td><td colspan="1" rowspan="1"><p>The Azure CLI is a tool that you can use to create, manage, and remove Azure resources from the command line.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>REST APIs</strong></p></td><td colspan="1" rowspan="1"><p>Azure is built on a set of REST APIs that help you perform the same operation that you do in Azure portal Ul. It allows your Azure resources and apps to be manipulated via any third-party software application.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>&nbsp;</strong></p></td><td colspan="1" rowspan="1"><p>&nbsp;</p></td></tr></tbody></table>
     
@@ -119,7 +120,8 @@ Azure provides more than 200 services, which are divided into 18 categories. The
     ---
     
 
-## Managing MS Azure
+1. ## Managing MS Azure
+    
 
 ### Creating Azure Account
 
